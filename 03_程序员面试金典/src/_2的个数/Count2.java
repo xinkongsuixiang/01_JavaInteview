@@ -1,8 +1,6 @@
-package 程序员面试金典._2的个数;
+package _2的个数;
 
 import org.junit.Test;
-
-import java.util.*;
 
 public class Count2 {
     @Test

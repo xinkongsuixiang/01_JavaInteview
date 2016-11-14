@@ -1,4 +1,4 @@
-package 程序员面试金典.x5链表中倒数第k个结点;
+package _022链表中倒数第k个结点;
 
 import org.junit.Test;
 
